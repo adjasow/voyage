@@ -1,0 +1,41 @@
+#sec1{
+    background-image: url('33.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    align-items: center;
+}
+a{
+    display: flex;
+    float: right;
+}
+h1{
+    color: #ECAE0D;
+    padding-top: 100px;
+}
+h4{
+    color: white;
+    padding: 30px;
+}
+.galery{
+    width: 100%;
+    height: 300px;
+}
+#gala.col-xs-12 col-sm-12 col-md-8 col-lg-6{
+    margin: 0!important;
+    padding: 25px;
+}
+.color{
+    color: white;
+}
+.secton{
+    height: 100%;
+    width: 100%;
+}
+
+.monsect{
+    background-image: url('https://img.freepik.com/vecteurs-libre/affiche-piste-avion_1284-9441.jpg?size=626&ext=jpg&ga=GA1.1.351674763.1682377951&semt=ais');
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}

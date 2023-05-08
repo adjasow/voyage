@@ -1,0 +1,11 @@
+.color{
+    color: white;
+}
+
+.form-control{
+    width: 50%;
+    align-items: center;
+}
+.btn{
+    width: 100%;
+}
